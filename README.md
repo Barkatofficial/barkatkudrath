@@ -18,9 +18,6 @@
 - **Database:** PostgreSql,MongoDB
 - **Tools:** Git, Docker, Webpack, Babel
 
-![](https://komarev.com/ghpvc/?username=barkatkudrath&color=blueviolet)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=barkatkudrath&layout=compact&theme=vision-friendly-dark)
 
 
 
