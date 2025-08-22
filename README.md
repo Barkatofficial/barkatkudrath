@@ -3,7 +3,8 @@
 🚀 Frontend Developer | 4+ Years Experience | React.js | Node.js | JavaScript  
 
 ## 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)]([your-linkedin-url](https://www.linkedin.com/in/sk-barkat-kudrath-1b9494180/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sk-barkat-kudrath-1b9494180/)
+
 
 ## 👨‍💻 About Me
 - Passionate about building **scalable frontend applications**
