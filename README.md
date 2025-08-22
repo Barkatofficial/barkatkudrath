@@ -10,7 +10,7 @@
 - I’m a passionate developer with strong expertise in **frontend development** and hands-on experience in **backend technologies**.  
 - I enjoy building **scalable, high-performance, and user-friendly applications** that solve real-world problems.  
 - Always eager to **explore new tools, frameworks, and emerging technologies** to refine my skills and deliver impactful solutions.
-- Skilled in **Javasript, React, Angular, TypeScript, Node.js, PostgreSQL**
+- Skilled in **Javascript, React, Angular, TypeScript, Node.js, PostgreSQL**
 - Exploring **GraphQL,Docker,CI/CD,AWS**
 
 ## 🛠 Tech Stack
